@@ -1,0 +1,20 @@
+.bg_hover{
+      cursor: pointer;
+}
+.bg_hover:hover{
+      background: #ddd;
+}
+.icons{
+      cursor: pointer;
+      height: 30px;
+}
+.icons:hover{
+      color: rgb(64, 0, 255);
+}
+
+
+
+
+
+
+
